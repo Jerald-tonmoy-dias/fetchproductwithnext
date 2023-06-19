@@ -2,11 +2,11 @@
   "name": "arekta",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://testsofttech.testapplication.xyz/",
   "scripts": {
-    "dev": "next dev",
+    "dev": "next",
     "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
+    "start": "node server.js"
   },
   "dependencies": {
     "autoprefixer": "10.4.14",

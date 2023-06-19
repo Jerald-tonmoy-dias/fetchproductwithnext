@@ -1,0 +1,9 @@
+https://medium.com/@geevadon/how-to-deploy-a-next-js-app-on-cpanel-efficiently-c00c5eb860de 
+
+
+"start": "NODE_ENV=production node server.js"
+
+
+/home5/softtechtest/testsofttech.testapplication.xyz
+
+testsofttech.testapplication.xyz
